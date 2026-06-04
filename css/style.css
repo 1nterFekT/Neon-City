@@ -35,6 +35,10 @@ h2,
     font-family: "Cyberpunk", sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 header {
     position: fixed;
     width: 100%;
